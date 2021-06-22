@@ -1,2 +1,3 @@
 # learn-postgresql
-Annotations and examples using PostgreSQL
+Anotações e exemplos utilizando o PostgreSQL
+
