@@ -10,3 +10,14 @@
 ``` 
 *Sempre usar letras minúsculas para nomear as tabelas.*
 
+
+</br>
+
+
+## Para inserirmos valores na tabela:
+
+
+```sql 
+    INSERT INTO cities (name, country, population, area) VALUES('Sao Paulo', 'Brasil', 12000000, 6000000); 
+```
+*Sempre usar aspas simples (single quotes).*
