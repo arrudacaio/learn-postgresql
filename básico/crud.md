@@ -21,3 +21,9 @@
     INSERT INTO cities (name, country, population, area) VALUES('Sao Paulo', 'Brasil', 12000000, 6000000); 
 ```
 *Sempre usar aspas simples (single quotes).*
+
+### Inserir múltiplos valores:
+```sql 
+    INSERT INTO cities (name, country, population, area) 
+        VALUES('Sao Paulo', 'Brasil', 12000000, 6000000), ('Delphi', 'India', 25403262, 12540); 
+```
